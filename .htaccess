@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+ErrorDocument 403 /public/errors/403.php
+ErrorDocument 404 /public/errors/404.php
